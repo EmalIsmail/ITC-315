@@ -21,4 +21,7 @@ public class Emal {
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
     }
+    public void nonsense(){
+        System.out.println("Baches ziad hawsela dari")
+    }
 }
