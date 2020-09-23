@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Final change and commit made within the master branch.
 //Both branches are merged now.
 
 // This change has been made within the master branch.
