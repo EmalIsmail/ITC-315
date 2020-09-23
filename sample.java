@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Both branches are merged now.
 // we are within the new-series sub-branch.
 public class Emal {
 
